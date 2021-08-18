@@ -1,0 +1,17 @@
+:root {
+    --primary: #c6e6d4;
+    --secondary: #effff8;
+    --tertiary: #93ff2e;
+    --light: #ffffff;
+    --dark: #093b24;
+    --border-radius: 0.3rem;
+    --spacing-one: calc(1rem * 0.25);
+    --spacing-two: calc(1rem * 0.5);
+    --spacing-three: 1rem;
+    --spacing-four: calc(1rem * 1.5);
+    --spacing-five: calc(1rem * 3);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
