@@ -9,8 +9,9 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 # Usage
 [Team Profile Generator](https://drive.google.com/drive/u/0/folders/1BFyOYVbmI6g4ioolz2Lb27LfGqZ3lHMC)
 
-[Coding Image](../assets/images/entry-screenshot.png)
-[Finished Product](../assets/images/finsihed-product.png)
+[Coding Image](../assets/images/entry-screenshot.jpg)
+
+[Finished Product](../assets/images/finished-product.jpg)
 
 # Credits
 
